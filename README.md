@@ -1,7 +1,6 @@
 hi, i'm pei!
-current science teacher and future webdev student...
-i'm interested in making fun little projects that bring joy,
-and creating useful, beautiful and intuitive tools.
+current science teacher and future swe student...
+i want to build cool things and solve interesting problems.
 
 contact me @pchu2018@gmail.com
 

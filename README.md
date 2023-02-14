@@ -1,6 +1,5 @@
 hi, i'm pei!
-current science teacher and future swe student...
-i want to build cool things and solve interesting problems.
+software developer with full stack experience on multiple open source products, specializing in frontend frameworks and web servers. strong collaborative skills, highly motivated independent problem solver and always looking to learn.
 
 contact me @pchu2018@gmail.com
 

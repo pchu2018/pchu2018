@@ -1,5 +1,5 @@
 hi, i'm pei!
-software developer with full stack experience on multiple open source products, specializing in frontend frameworks and web servers. strong collaborative skills, highly motivated independent problem solver and always looking to learn.
+software developer @ dreambox learning
 
 contact me @pchu2018@gmail.com
 
